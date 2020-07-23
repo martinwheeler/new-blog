@@ -15,14 +15,6 @@ module.exports = {
       label: "Articles",
       path: "/",
     },
-    {
-      label: "About me",
-      path: "/pages/about",
-    },
-    {
-      label: "Contact me",
-      path: "/pages/contacts",
-    },
   ],
   author: {
     name: "Martin Wheeler",
@@ -32,11 +24,11 @@ module.exports = {
       email: "hello@martinwheeler.com.au",
       facebook: "",
       telegram: "",
-      twitter: "",
+      twitter: "martingwheeler",
       github: "martinwheeler",
       rss: "",
       vkontakte: "",
-      linkedin: "martingwheeler",
+      linkedin: "martin-g-wheeler",
       instagram: "",
       line: "",
       gitlab: "",
