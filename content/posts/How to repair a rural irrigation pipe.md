@@ -3,7 +3,8 @@ created: 2020-07-23T17:06:10+10:00
 title: How to repair a rural irrigation pipe
 slug: how-to-repair-rural-irrigation-pipe
 category: Blog
-modified: 2020-07-23T17:16:55+10:00
+modified: 2020-07-23T17:41:38+10:00
+description: I spent a couple of days trying to work out how to fix a leak in our irrigation system...
 ---
 
 We recently had an issue in our irrigation piping where it looked like someone had cut it with a shovel. There was a large cut and it was leaking water heavily. I only noticed it after hearing it as I was working nearby the leak.
