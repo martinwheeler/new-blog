@@ -1,11 +1,11 @@
 ---
 created: 2020-01-23T08:55:43+11:00
-modified: 2020-07-23T11:21:55+10:00
+modified: 2020-07-23T11:23:54+10:00
 title: Transformers
-slug: how-ac-and-dc-differs
+slug: transformers
 category: TIL
-tags: [Test]
-description: Something
+tags: [Electrotechnology]
+description: Basics of how a transformer works.
 draft: false
 date: 1234
 ---
