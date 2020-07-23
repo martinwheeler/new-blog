@@ -1,7 +1,7 @@
 ---
-created: 2020-04-07T08:55:43+11:00
-modified: 2020-04-07T11:23:54+10:00
-title: Building a simple wall holder
+created: 2020-04-07T07:55:43+10:00
+modified: 2020-07-23T17:40:18+10:00
+title: Building a simple wall organiser
 slug: building-a-simple-wall-holder
 category: Blog
 tags: [Woodwork]
