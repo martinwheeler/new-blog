@@ -3,8 +3,8 @@ created: 2020-07-23T15:36:39+10:00
 title: The 6 classes of an electrical license
 slug: the-6-classes-of-an-electrical-license
 category: TIL
-modified: 2020-07-23T17:37:30+10:00
-description: I spend a couple of days trying to work out how to fix a leak in our irrigation system.
+modified: 2020-07-23T17:41:17+10:00
+description: Something I was completely unaware of...
 ---
 
 1. Mechanic - They can perform all types of electrical work.
