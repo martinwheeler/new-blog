@@ -2,7 +2,9 @@
 created: 2020-07-24T07:27:28+10:00
 title: I edit this blog with my phone
 draft: false
-modified: 2020-07-29T19:02:33+10:00
+modified: 2020-07-29T21:11:58+10:00
+category: Blog
+slug: i-edit-this-blog-with-my-phone
 ---
 
 In the past I've had blogs setup with a very unideal user experience. Not because I wanted to but because I never spent the time making it user friendly for myself. I think I was more focused on how cool the code was.
