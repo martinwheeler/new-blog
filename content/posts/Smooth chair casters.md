@@ -1,8 +1,10 @@
 ---
 created: 2020-07-29T20:40:22+10:00
-title: Smooth chair casters
-category: blog
-modified: 2020-07-29T21:09:27+10:00
+title: Smooth office chair casters
+category: Blog
+modified: 2020-07-29T21:10:42+10:00
+slug: smooth-office-chair-casters
+description: Rollerblade wheels but for your office chair.
 ---
 
 ![Image](./image_picker4384523211389755503.jpg)
