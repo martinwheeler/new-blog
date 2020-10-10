@@ -3,7 +3,9 @@ created: 2020-10-10T14:28:09+10:00
 draft: false
 category: blog
 slug: cert-2-completed
-modified: 2020-10-10T14:41:06+10:00
+modified: 2020-10-10T14:41:56+10:00
+title: Certificate 2 in Electrotechnology Complete
+description: Wooohoooo!
 ---
 
 # Certificate 2 in Electrotechnology Complete
