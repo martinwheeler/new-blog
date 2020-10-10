@@ -3,7 +3,8 @@ created: 2020-10-10T17:09:15+10:00
 category: til
 title: When a Render goes wrong
 description: I ended up in a sticky situation...
-modified: 2020-10-10T17:17:22+10:00
+modified: 2020-10-10T17:27:10+10:00
+draft: false
 ---
 
 ![Image](./image_picker7434544325286620055.jpg)
