@@ -1,14 +1,6 @@
 ---
-created: 2022-02-17T21:29:06+10:00
-modified: 2022-12-19T08:20:24+10:00
-category: til
-title: Back to development
-description: Coming back swinging
-draft: false
-slug: back-to-development
+title: Model 3 Cameras
 ---
-
-# Model 3 Cameras
 
 The Model 3 comes with four exterior cameras, and one internal camera. These cameras are used for auto pilot, where the car can drive itself but they can acts as security too. Using the Tesla app you are able to remotely access these cameras and see what's going on around and inside the car, live, at any time of day.
 
