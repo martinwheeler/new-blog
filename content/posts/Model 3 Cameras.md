@@ -1,9 +1,9 @@
 ---
-created: 2022-12-20T09:00:00+10:00
+created: 2022-12-19T09:00:00+10:00
 category: til
 title: Tesla Model 3 Cameras
 description: Security built in is pretty awesome
-modified: 2022-12-20T08:04:36+10:00
+modified: 2022-12-20T08:04:59+10:00
 draft: true
 slug: tesla-model-3-cameras
 ---
